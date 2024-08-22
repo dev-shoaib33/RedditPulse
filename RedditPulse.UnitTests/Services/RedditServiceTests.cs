@@ -1,17 +1,10 @@
-﻿using Moq;
-using RedditListener.Services;
-using RedditPulse.Interfaces;
-using RedditPulse.Models;
-using RestSharp;
-
-namespace RedditPulse.Tests.Services;
+﻿namespace RedditPulse.Tests.Services;
 
 public class RedditServiceTests
 {
     [Fact]
     public async Task ListenToSubreddit_ShouldReturnPostsAndProcessThem()
     {
-        // Arrange
         var mockLogger = new Mock<ILoggerService>();
         var mockAuthService = new Mock<IRedditAuthService>();
         var mockStatisticsService = new Mock<IStatisticsService>();
@@ -25,7 +18,6 @@ public class RedditServiceTests
             Content = "{ \"data\": { \"children\": [ { \"data\": { \"id\": \"1\", \"author\": \"user1\", \"title\": \"Post 1\", \"ups\": 10 } } ] } }"
         };
 
-        // Mock the ExecuteAsync method
         mockClient.Setup(client => client.ExecuteAsync(It.Is<RestRequest>(r =>
             r.Resource == "/r/test-subreddit/new.json" &&
             r.Method == Method.Get)))
@@ -33,10 +25,8 @@ public class RedditServiceTests
 
         var redditService = new RedditService(mockLogger.Object, mockAuthService.Object, mockClient.Object);
 
-        // Act
         var posts = await redditService.ListenToSubreddit("test-subreddit", mockStatisticsService.Object);
 
-        // Assert
         Assert.Single(posts);
         mockStatisticsService.Verify(stat => stat.ProcessPost(It.IsAny<RedditPost>()), Times.Once);
         mockLogger.Verify(logger => logger.Log(It.IsAny<string>()), Times.AtLeastOnce);
@@ -46,7 +36,6 @@ public class RedditServiceTests
     [Fact]
     public async Task ListenToSubreddit_ShouldLogErrorOnFailure()
     {
-        // Arrange
         var mockLogger = new Mock<ILoggerService>();
         var mockAuthService = new Mock<IRedditAuthService>();
         var mockStatisticsService = new Mock<IStatisticsService>();
@@ -65,7 +54,6 @@ public class RedditServiceTests
 
         var redditService = new RedditService(mockLogger.Object, mockAuthService.Object, mockClient.Object);
 
-        // Act & Assert
         await Assert.ThrowsAsync<Exception>(async () => await redditService.ListenToSubreddit("test-subreddit", mockStatisticsService.Object));
         mockLogger.Verify(logger => logger.Log(It.IsAny<string>()), Times.AtLeastOnce);
     }
