@@ -1,0 +1,360 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Dev\\source\\repos\\RedditPulse\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2565168E-03DB-4AAC-8964-41CAEEFFA2F9}|RedditPulse\\RedditPulse.csproj|c:\\users\\dev\\source\\repos\\redditpulse\\redditpulse\\services\\redditservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2565168E-03DB-4AAC-8964-41CAEEFFA2F9}|RedditPulse\\RedditPulse.csproj|solutionrelative:redditpulse\\services\\redditservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2565168E-03DB-4AAC-8964-41CAEEFFA2F9}|RedditPulse\\RedditPulse.csproj|c:\\users\\dev\\source\\repos\\redditpulse\\redditpulse\\services\\authservice\\redditauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2565168E-03DB-4AAC-8964-41CAEEFFA2F9}|RedditPulse\\RedditPulse.csproj|solutionrelative:redditpulse\\services\\authservice\\redditauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2565168E-03DB-4AAC-8964-41CAEEFFA2F9}|RedditPulse\\RedditPulse.csproj|c:\\users\\dev\\source\\repos\\redditpulse\\redditpulse\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2565168E-03DB-4AAC-8964-41CAEEFFA2F9}|RedditPulse\\RedditPulse.csproj|solutionrelative:redditpulse\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B2B7A3E-E5EE-493A-BCAE-5C6C7FB2AD82}|RedditPulse.UnitTests\\RedditPulse.UnitTests.csproj|c:\\users\\dev\\source\\repos\\redditpulse\\redditpulse.unittests\\services\\statisticsservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B2B7A3E-E5EE-493A-BCAE-5C6C7FB2AD82}|RedditPulse.UnitTests\\RedditPulse.UnitTests.csproj|solutionrelative:redditpulse.unittests\\services\\statisticsservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B2B7A3E-E5EE-493A-BCAE-5C6C7FB2AD82}|RedditPulse.UnitTests\\RedditPulse.UnitTests.csproj|c:\\users\\dev\\source\\repos\\redditpulse\\redditpulse.unittests\\services\\redditservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B2B7A3E-E5EE-493A-BCAE-5C6C7FB2AD82}|RedditPulse.UnitTests\\RedditPulse.UnitTests.csproj|solutionrelative:redditpulse.unittests\\services\\redditservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2565168E-03DB-4AAC-8964-41CAEEFFA2F9}|RedditPulse\\RedditPulse.csproj|c:\\users\\dev\\source\\repos\\redditpulse\\redditpulse\\services\\statisticsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2565168E-03DB-4AAC-8964-41CAEEFFA2F9}|RedditPulse\\RedditPulse.csproj|solutionrelative:redditpulse\\services\\statisticsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2565168E-03DB-4AAC-8964-41CAEEFFA2F9}|RedditPulse\\RedditPulse.csproj|c:\\users\\dev\\source\\repos\\redditpulse\\redditpulse\\usings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2565168E-03DB-4AAC-8964-41CAEEFFA2F9}|RedditPulse\\RedditPulse.csproj|solutionrelative:redditpulse\\usings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2565168E-03DB-4AAC-8964-41CAEEFFA2F9}|RedditPulse\\RedditPulse.csproj|c:\\users\\dev\\source\\repos\\redditpulse\\redditpulse\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2565168E-03DB-4AAC-8964-41CAEEFFA2F9}|RedditPulse\\RedditPulse.csproj|solutionrelative:redditpulse\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2565168E-03DB-4AAC-8964-41CAEEFFA2F9}|RedditPulse\\RedditPulse.csproj|c:\\users\\dev\\source\\repos\\redditpulse\\redditpulse\\helpers\\restclientwrapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2565168E-03DB-4AAC-8964-41CAEEFFA2F9}|RedditPulse\\RedditPulse.csproj|solutionrelative:redditpulse\\helpers\\restclientwrapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2565168E-03DB-4AAC-8964-41CAEEFFA2F9}|RedditPulse\\RedditPulse.csproj|c:\\users\\dev\\source\\repos\\redditpulse\\redditpulse\\interfaces\\irestclientwrapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2565168E-03DB-4AAC-8964-41CAEEFFA2F9}|RedditPulse\\RedditPulse.csproj|solutionrelative:redditpulse\\interfaces\\irestclientwrapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2565168E-03DB-4AAC-8964-41CAEEFFA2F9}|RedditPulse\\RedditPulse.csproj|c:\\users\\dev\\source\\repos\\redditpulse\\redditpulse\\interfaces\\istatisticsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2565168E-03DB-4AAC-8964-41CAEEFFA2F9}|RedditPulse\\RedditPulse.csproj|solutionrelative:redditpulse\\interfaces\\istatisticsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2565168E-03DB-4AAC-8964-41CAEEFFA2F9}|RedditPulse\\RedditPulse.csproj|c:\\users\\dev\\source\\repos\\redditpulse\\redditpulse\\interfaces\\iredditauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2565168E-03DB-4AAC-8964-41CAEEFFA2F9}|RedditPulse\\RedditPulse.csproj|solutionrelative:redditpulse\\interfaces\\iredditauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2565168E-03DB-4AAC-8964-41CAEEFFA2F9}|RedditPulse\\RedditPulse.csproj|c:\\users\\dev\\source\\repos\\redditpulse\\redditpulse\\interfaces\\iloggerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2565168E-03DB-4AAC-8964-41CAEEFFA2F9}|RedditPulse\\RedditPulse.csproj|solutionrelative:redditpulse\\interfaces\\iloggerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2565168E-03DB-4AAC-8964-41CAEEFFA2F9}|RedditPulse\\RedditPulse.csproj|c:\\users\\dev\\source\\repos\\redditpulse\\redditpulse\\redditpulse.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2565168E-03DB-4AAC-8964-41CAEEFFA2F9}|RedditPulse\\RedditPulse.csproj|solutionrelative:redditpulse\\redditpulse.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B2B7A3E-E5EE-493A-BCAE-5C6C7FB2AD82}|RedditPulse.UnitTests\\RedditPulse.UnitTests.csproj|c:\\users\\dev\\source\\repos\\redditpulse\\redditpulse.unittests\\redditpulse.unittests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1B2B7A3E-E5EE-493A-BCAE-5C6C7FB2AD82}|RedditPulse.UnitTests\\RedditPulse.UnitTests.csproj|solutionrelative:redditpulse.unittests\\redditpulse.unittests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2565168E-03DB-4AAC-8964-41CAEEFFA2F9}|RedditPulse\\RedditPulse.csproj|c:\\users\\dev\\source\\repos\\redditpulse\\redditpulse\\services\\consoleloggerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2565168E-03DB-4AAC-8964-41CAEEFFA2F9}|RedditPulse\\RedditPulse.csproj|solutionrelative:redditpulse\\services\\consoleloggerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2565168E-03DB-4AAC-8964-41CAEEFFA2F9}|RedditPulse\\RedditPulse.csproj|c:\\users\\dev\\source\\repos\\redditpulse\\redditpulse\\models\\subredditstatistics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2565168E-03DB-4AAC-8964-41CAEEFFA2F9}|RedditPulse\\RedditPulse.csproj|solutionrelative:redditpulse\\models\\subredditstatistics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2565168E-03DB-4AAC-8964-41CAEEFFA2F9}|RedditPulse\\RedditPulse.csproj|c:\\users\\dev\\source\\repos\\redditpulse\\redditpulse\\models\\reddituser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2565168E-03DB-4AAC-8964-41CAEEFFA2F9}|RedditPulse\\RedditPulse.csproj|solutionrelative:redditpulse\\models\\reddituser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2565168E-03DB-4AAC-8964-41CAEEFFA2F9}|RedditPulse\\RedditPulse.csproj|c:\\users\\dev\\source\\repos\\redditpulse\\redditpulse\\models\\redditpost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2565168E-03DB-4AAC-8964-41CAEEFFA2F9}|RedditPulse\\RedditPulse.csproj|solutionrelative:redditpulse\\models\\redditpost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2565168E-03DB-4AAC-8964-41CAEEFFA2F9}|RedditPulse\\RedditPulse.csproj|c:\\users\\dev\\source\\repos\\redditpulse\\redditpulse\\interfaces\\iredditservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2565168E-03DB-4AAC-8964-41CAEEFFA2F9}|RedditPulse\\RedditPulse.csproj|solutionrelative:redditpulse\\interfaces\\iredditservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RedditService.cs",
+              "DocumentMoniker": "C:\\Users\\Dev\\source\\repos\\RedditPulse\\RedditPulse\\Services\\RedditService.cs",
+              "RelativeDocumentMoniker": "RedditPulse\\Services\\RedditService.cs",
+              "ToolTip": "C:\\Users\\Dev\\source\\repos\\RedditPulse\\RedditPulse\\Services\\RedditService.cs",
+              "RelativeToolTip": "RedditPulse\\Services\\RedditService.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAABAAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T01:06:12.377Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RedditServiceTests.cs",
+              "DocumentMoniker": "C:\\Users\\Dev\\source\\repos\\RedditPulse\\RedditPulse.UnitTests\\Services\\RedditServiceTests.cs",
+              "RelativeDocumentMoniker": "RedditPulse.UnitTests\\Services\\RedditServiceTests.cs",
+              "ToolTip": "C:\\Users\\Dev\\source\\repos\\RedditPulse\\RedditPulse.UnitTests\\Services\\RedditServiceTests.cs",
+              "RelativeToolTip": "RedditPulse.UnitTests\\Services\\RedditServiceTests.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAAAC4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T18:13:55.263Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RedditAuthService.cs",
+              "DocumentMoniker": "C:\\Users\\Dev\\source\\repos\\RedditPulse\\RedditPulse\\Services\\AuthService\\RedditAuthService.cs",
+              "RelativeDocumentMoniker": "RedditPulse\\Services\\AuthService\\RedditAuthService.cs",
+              "ToolTip": "C:\\Users\\Dev\\source\\repos\\RedditPulse\\RedditPulse\\Services\\AuthService\\RedditAuthService.cs",
+              "RelativeToolTip": "RedditPulse\\Services\\AuthService\\RedditAuthService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T16:26:05.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StatisticsService.cs",
+              "DocumentMoniker": "C:\\Users\\Dev\\source\\repos\\RedditPulse\\RedditPulse\\Services\\StatisticsService.cs",
+              "RelativeDocumentMoniker": "RedditPulse\\Services\\StatisticsService.cs",
+              "ToolTip": "C:\\Users\\Dev\\source\\repos\\RedditPulse\\RedditPulse\\Services\\StatisticsService.cs",
+              "RelativeToolTip": "RedditPulse\\Services\\StatisticsService.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAwwCIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T01:07:32.144Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StatisticsServiceTests.cs",
+              "DocumentMoniker": "C:\\Users\\Dev\\source\\repos\\RedditPulse\\RedditPulse.UnitTests\\Services\\StatisticsServiceTests.cs",
+              "RelativeDocumentMoniker": "RedditPulse.UnitTests\\Services\\StatisticsServiceTests.cs",
+              "ToolTip": "C:\\Users\\Dev\\source\\repos\\RedditPulse\\RedditPulse.UnitTests\\Services\\StatisticsServiceTests.cs",
+              "RelativeToolTip": "RedditPulse.UnitTests\\Services\\StatisticsServiceTests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T18:16:54.678Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Dev\\source\\repos\\RedditPulse\\RedditPulse\\Program.cs",
+              "RelativeDocumentMoniker": "RedditPulse\\Program.cs",
+              "ToolTip": "C:\\Users\\Dev\\source\\repos\\RedditPulse\\RedditPulse\\Program.cs",
+              "RelativeToolTip": "RedditPulse\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T19:11:24.51Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Usings.cs",
+              "DocumentMoniker": "C:\\Users\\Dev\\source\\repos\\RedditPulse\\RedditPulse\\Usings.cs",
+              "RelativeDocumentMoniker": "RedditPulse\\Usings.cs",
+              "ToolTip": "C:\\Users\\Dev\\source\\repos\\RedditPulse\\RedditPulse\\Usings.cs",
+              "RelativeToolTip": "RedditPulse\\Usings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T18:01:39.391Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Dev\\source\\repos\\RedditPulse\\RedditPulse\\appsettings.json",
+              "RelativeDocumentMoniker": "RedditPulse\\appsettings.json",
+              "ToolTip": "C:\\Users\\Dev\\source\\repos\\RedditPulse\\RedditPulse\\appsettings.json",
+              "RelativeToolTip": "RedditPulse\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-22T17:52:31.972Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RestClientWrapper.cs",
+              "DocumentMoniker": "C:\\Users\\Dev\\source\\repos\\RedditPulse\\RedditPulse\\Helpers\\RestClientWrapper.cs",
+              "RelativeDocumentMoniker": "RedditPulse\\Helpers\\RestClientWrapper.cs",
+              "ToolTip": "C:\\Users\\Dev\\source\\repos\\RedditPulse\\RedditPulse\\Helpers\\RestClientWrapper.cs",
+              "RelativeToolTip": "RedditPulse\\Helpers\\RestClientWrapper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T18:21:35.867Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IRestClientWrapper.cs",
+              "DocumentMoniker": "C:\\Users\\Dev\\source\\repos\\RedditPulse\\RedditPulse\\Interfaces\\IRestClientWrapper.cs",
+              "RelativeDocumentMoniker": "RedditPulse\\Interfaces\\IRestClientWrapper.cs",
+              "ToolTip": "C:\\Users\\Dev\\source\\repos\\RedditPulse\\RedditPulse\\Interfaces\\IRestClientWrapper.cs",
+              "RelativeToolTip": "RedditPulse\\Interfaces\\IRestClientWrapper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T18:20:21.438Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IRedditAuthService.cs",
+              "DocumentMoniker": "C:\\Users\\Dev\\source\\repos\\RedditPulse\\RedditPulse\\Interfaces\\IRedditAuthService.cs",
+              "RelativeDocumentMoniker": "RedditPulse\\Interfaces\\IRedditAuthService.cs",
+              "ToolTip": "C:\\Users\\Dev\\source\\repos\\RedditPulse\\RedditPulse\\Interfaces\\IRedditAuthService.cs",
+              "RelativeToolTip": "RedditPulse\\Interfaces\\IRedditAuthService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T16:37:12.719Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ILoggerService.cs",
+              "DocumentMoniker": "C:\\Users\\Dev\\source\\repos\\RedditPulse\\RedditPulse\\Interfaces\\ILoggerService.cs",
+              "RelativeDocumentMoniker": "RedditPulse\\Interfaces\\ILoggerService.cs",
+              "ToolTip": "C:\\Users\\Dev\\source\\repos\\RedditPulse\\RedditPulse\\Interfaces\\ILoggerService.cs",
+              "RelativeToolTip": "RedditPulse\\Interfaces\\ILoggerService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T01:04:03.69Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IStatisticsService.cs",
+              "DocumentMoniker": "C:\\Users\\Dev\\source\\repos\\RedditPulse\\RedditPulse\\Interfaces\\IStatisticsService.cs",
+              "RelativeDocumentMoniker": "RedditPulse\\Interfaces\\IStatisticsService.cs",
+              "ToolTip": "C:\\Users\\Dev\\source\\repos\\RedditPulse\\RedditPulse\\Interfaces\\IStatisticsService.cs",
+              "RelativeToolTip": "RedditPulse\\Interfaces\\IStatisticsService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T01:05:01.302Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "RedditPulse",
+              "DocumentMoniker": "C:\\Users\\Dev\\source\\repos\\RedditPulse\\RedditPulse\\RedditPulse.csproj",
+              "RelativeDocumentMoniker": "RedditPulse\\RedditPulse.csproj",
+              "ToolTip": "C:\\Users\\Dev\\source\\repos\\RedditPulse\\RedditPulse\\RedditPulse.csproj",
+              "RelativeToolTip": "RedditPulse\\RedditPulse.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-22T01:01:46.959Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "RedditPulse.UnitTests",
+              "DocumentMoniker": "C:\\Users\\Dev\\source\\repos\\RedditPulse\\RedditPulse.UnitTests\\RedditPulse.UnitTests.csproj",
+              "RelativeDocumentMoniker": "RedditPulse.UnitTests\\RedditPulse.UnitTests.csproj",
+              "ToolTip": "C:\\Users\\Dev\\source\\repos\\RedditPulse\\RedditPulse.UnitTests\\RedditPulse.UnitTests.csproj",
+              "RelativeToolTip": "RedditPulse.UnitTests\\RedditPulse.UnitTests.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-22T18:11:01.179Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ConsoleLoggerService.cs",
+              "DocumentMoniker": "C:\\Users\\Dev\\source\\repos\\RedditPulse\\RedditPulse\\Services\\ConsoleLoggerService.cs",
+              "RelativeDocumentMoniker": "RedditPulse\\Services\\ConsoleLoggerService.cs",
+              "ToolTip": "C:\\Users\\Dev\\source\\repos\\RedditPulse\\RedditPulse\\Services\\ConsoleLoggerService.cs",
+              "RelativeToolTip": "RedditPulse\\Services\\ConsoleLoggerService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T01:09:07.487Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "SubredditStatistics.cs",
+              "DocumentMoniker": "C:\\Users\\Dev\\source\\repos\\RedditPulse\\RedditPulse\\Models\\SubredditStatistics.cs",
+              "RelativeDocumentMoniker": "RedditPulse\\Models\\SubredditStatistics.cs",
+              "ToolTip": "C:\\Users\\Dev\\source\\repos\\RedditPulse\\RedditPulse\\Models\\SubredditStatistics.cs",
+              "RelativeToolTip": "RedditPulse\\Models\\SubredditStatistics.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T01:00:44.225Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "RedditUser.cs",
+              "DocumentMoniker": "C:\\Users\\Dev\\source\\repos\\RedditPulse\\RedditPulse\\Models\\RedditUser.cs",
+              "RelativeDocumentMoniker": "RedditPulse\\Models\\RedditUser.cs",
+              "ToolTip": "C:\\Users\\Dev\\source\\repos\\RedditPulse\\RedditPulse\\Models\\RedditUser.cs",
+              "RelativeToolTip": "RedditPulse\\Models\\RedditUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T00:59:34.04Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "RedditPost.cs",
+              "DocumentMoniker": "C:\\Users\\Dev\\source\\repos\\RedditPulse\\RedditPulse\\Models\\RedditPost.cs",
+              "RelativeDocumentMoniker": "RedditPulse\\Models\\RedditPost.cs",
+              "ToolTip": "C:\\Users\\Dev\\source\\repos\\RedditPulse\\RedditPulse\\Models\\RedditPost.cs",
+              "RelativeToolTip": "RedditPulse\\Models\\RedditPost.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T00:58:43.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IRedditService.cs",
+              "DocumentMoniker": "C:\\Users\\Dev\\source\\repos\\RedditPulse\\RedditPulse\\Interfaces\\IRedditService.cs",
+              "RelativeDocumentMoniker": "RedditPulse\\Interfaces\\IRedditService.cs",
+              "ToolTip": "C:\\Users\\Dev\\source\\repos\\RedditPulse\\RedditPulse\\Interfaces\\IRedditService.cs",
+              "RelativeToolTip": "RedditPulse\\Interfaces\\IRedditService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T01:03:40.076Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
