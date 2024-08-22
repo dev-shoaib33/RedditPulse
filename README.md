@@ -128,7 +128,7 @@ RedditPulse/
 This structure is designed to promote modularity, testability, and maintainability, making it easier to manage and extend the application over time.
 
 
-##Testing
+**Testing**
 
 Unit tests for the application are located in the `RedditPulse.UnitTests` project.
 
@@ -147,6 +147,6 @@ RedditPulse.UnitTests/
 │   └── StatisticsServiceTests.cs   # Unit tests for StatisticsService
 ```
 
-##License
+**License**
 
 This project is licensed under the MIT License - see the LICENSE file for details.
